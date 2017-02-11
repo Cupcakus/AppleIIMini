@@ -40,6 +40,11 @@ I drilled a hole through the top of the enclosure into the monitor to run the wi
 
 Standard super glue seemed to work fine for gluing everything together.
 
+# Paint
+I followed option8's directions for painting with the following spray paints
+- Montana GOLD (Sahara Yellow) for case
+- Krylon Espresso for Keyboard/Accessories
+
 # Video Signal
 Unfortunately the composite video signal from the C.H.I.P. is not exposed on the pin headers, so I was forced to hack it in.  If you are able to find a small enough right angle 3.5mm to RCA video cable that works go for it.  I was not.
 
