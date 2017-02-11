@@ -1,7 +1,7 @@
 # Apple IIe Mini powered by C.H.I.P
 Here you will find everything you need to create your very own C.H.I.P. powered Apple IIe Mini computer.
 
-![Finished Build](./BuildImages/BuildImage3.png)
+![Finished Build](./BuildImages/BuildImage3.jpg)
 
 # How it works
 This Apple IIe mini is completely self contained and has a battery life of about 10 hours give or take.  I haven't actually tested it, so I'm guessing based on the stated life of the battery and the amount of currrent draw observed during testing.
