@@ -33,7 +33,9 @@ I used the excellent 3D models from Thingiverse of a user named option8 and prin
 - Apple II Enclosure (https://www.thingiverse.com/thing:340677)
 - Apple II Monitor (http://www.thingiverse.com/thing:377253)
 - Apple II Enclosed Base (http://www.thingiverse.com/thing:2103158)
+
 I drilled a hole through the top of the enclosure into the monitor to run the wires for the monitor power, power switch, and video signals into the monitor.
+
 Standard super glue seemed to work fine for gluing everything together.
 
 # Video Signal
@@ -45,4 +47,5 @@ Connect the video GND to any available ground, I soldered it directly to the top
 
 # Emulator
 I am using stock LinApple-Pi which you can get here https://github.com/dabonetn/linapple-pie
+
 I have modified it a bit to make the menus more readable on the 320x240 screen, source code will be available soon.
