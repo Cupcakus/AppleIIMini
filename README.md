@@ -53,6 +53,6 @@ To hack in the video signal, simply attach a wire from the video signal on the C
 Connect the video GND to any available ground, I soldered it directly to the top of the 3.5mm connector on the C.H.I.P.
 
 # Emulator
-I am using stock LinApple-Pi which you can get here https://github.com/dabonetn/linapple-pie
+I am using stock LinApple-Pi which you can get here https://github.com/Cupcakus/linapple-pie
 
-I have modified it a bit to make the menus more readable on the 320x240 screen, source code will be available soon.
+I have modified the original emulator a bit to make the menus more readable on the 320x240 screen.
